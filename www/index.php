@@ -11,9 +11,10 @@
       Jamal Deemer
     </div>
     <div id="main_nav_div">
-      <a>Projects</a>
-      <a>Resume</a>
-      <a>About</a>
+      <a href="">About</a>
+      <a href="">Projects</a>
+      <a href="">Resume</a>
+      <a href="">Contact</a>
     </div>
   </div>
 </div>

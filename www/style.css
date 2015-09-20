@@ -11,7 +11,7 @@ html, body {
 #content_header {
   width: 100%;
   height: 200px;
-  background-color: rgb(40,25,60);
+  background-color: rgb(30,15,45);
 }
 
 #content_body {
@@ -52,10 +52,15 @@ html, body {
 #main_nav_div a{
   display: inline;
   font-weight: bolder;
-  color: rgb(222,222,222);
+  color: rgb(132,102,142);
   margin: 8px;
-  width: 100px  ;
+  width: 100px;
+  text-transform: uppercase;
+  text-decoration: none;
 }
 
+#main_nav_div a:hover{
+  color: rgb(200,200,200);  
+}
 
 
