@@ -36,7 +36,7 @@
       Jamal Deemer
     </div>
     <div id="main_nav_div">
-      <a id="about_link" href="">About</a>
+      <a id="about_link" href="">Home</a>
       <a id="projects_link" href="">Projects</a>
       <a id="resume_link" href="">Resume</a>
       <a id="contact_link" href="">Contact</a>
